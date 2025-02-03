@@ -1,4 +1,4 @@
-# Example-self-hosting-gpt
+# Self Hosting GPT Exmaple
 
 If there is a GPU, it is better to use the GPU for self-hosting Ollama.
 However, since this is a test of self-hosting, i conducted the test using a CPU (4 cores) and 32GB of memory.
